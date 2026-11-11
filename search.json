@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education",
+    "section": "",
+    "text": "Research Masters: Methodology and Statistics in Behavioural, Biomedical and Social Sciences – (2025 September – Present)\n\nUniversiteit Utrecht | Utrecht\n\nResearch focused Master’s with emphasis on advanced statistical methods, computational analysis, and applied data interpretation.\nDeveloped analytical, problem-solving and data interpretation skills through independent and group projects.\nDemonstrated independence and adaptability by managing a demanding academic workload while settling into anew and unfamiliar environment.\n\n\n\n\nBachelor of Science: Statistics | with Honours of the First Class - (2021 – 2025)\n\nGlasgow University | Glasgow\n\nApplied statistical analysis using R and Excel across diverse real-world datasets.\nAnalysed case studies in medicine, environmental science, sports, finance and psychology.\nPresented analytical findings through written reports and presentations for technical and non-technical audiences, in group and independent projects.\nStrong foundation in probability, modelling, inference, time series and experimental design\n\n\n\n\nHigh School\n\nA-Levels\n\n(2018 – 2020)\n\nMathematics (A)\nPhysics (B)\nHealth and social care (Distinction star) GCSE – (2013- 2018)\n\n\n\n\nGCSEs\n\n(2013 - 2018)\n(all subjects passed) - Mathematics, English, Biology, Chemistry, Physics, Geography, History, Music, Performing arts, IT."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Megan McEntee",
+    "section": "",
+    "text": "Master’s student in Methodology and Statistics in Behavioural, Biomedical and Social Sciences at Utrecht University. Welcome to my website, where you can find out more about me, my work and my studies!\n\nContacts:\n\nLinkedin\nEmail"
+  },
+  {
+    "objectID": "work.html",
+    "href": "work.html",
+    "title": "Work",
+    "section": "",
+    "text": "Alongside my studies, I also have 7+ years of work experience where I have consistently delivered high-quality service while understanding the importance of teamwork, collaboration, and reliability. Learning to successfully balance demanding work commitments alongside full-time academic study demonstrates my strong abilities of time management and dedication.\n\nUtrecht University | Research Assistant | Utrecht - (May 2026 – Present)\nAs a Research Assistant, I support the Data Donation Initiative (D3I) by contributing to research on digital trace data and data donation methodologies. My work involves systematically testing mobile applications, documenting their functionality through detailed action inventories, retrieving and assessing personal data exports to evaluate their structure and accessibility, and developing clear documentation to help future participants successfully access and donate their digital data.\n\n\nNostro | Waitress | Utrecht – (March 2026 – Present)\nOutside of my academic work, I am employed in front-of-house service at a fast-paced restaurant, where I provide friendly, professional, and attentive customer service and maintain detailed knowledge of the menu and its allergens. I value the social aspect of the role, and it has also become an effective way to develop my Dutch language skills: I speak only Dutch while working, which supports my fluency and deepens my immersion in Dutch culture. Language lessons can be expensive, so being paid to practice is a rather efficient trade-off!\n\n\nAdditional Experiences\n\nVanilla Black | Barista | Glasgow – (August 2024 – July 2025)\nManaged high volume service for up to 1,500+ theatre guests every shift, ensuring seamless experience under pressure. Demonstrated strong customer service, time management, and multitasking skills.\n\n\nFestival Bar work | Scotland & England – (June 2023- August 2025)\nWorked across major UK festivals, adapting quickly to changing teams, locations, management styles, and menus. Demonstrated flexibility, reliability, and strong communication skills while delivering customer service and managing stock.\n\n\nTesco Extra (large Uk supermarket & retail store) | Lichfield – (March 2020 – April 2021)\nSupported customers during the COVID-19 pandemic while maintaining safety procedures and training new colleagues in customer service protocols and point-of-sale technology."
+  },
+  {
+    "objectID": "about_me.html",
+    "href": "about_me.html",
+    "title": "A Little Bit More About Me…",
+    "section": "",
+    "text": "Hi, I’m Megan, and I love all things statistics. My journey began in high school, where I took an introductory statistics class and was introduced to the famous p-value. Since then, I have moved countries twice to pursue my studies in statistics, and I continue to be haunted by p-values. My main interest is biostatistics, so I feel very lucky to be completing an internship at UMC Utrecht, where I am writing my thesis for my master’s in Methodology and Statistics at Utrecht University. I am passionate about using data, methodology, and statistics to drive change and support those working in the medical field.\nOutside of my studies, I enjoy music, films, and baking. On weekends, you will often find me at a concert (or even working a festival) and at the cinema, making the most of my Cineville pass!"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Interval Censoring within TwiCs | Methodology and Statistics for Behavioural, Biomedical and Social Science | Present\nI am currently completing an internship at the Data Science & Biostatistics Department at UMC Utrecht, where I am writing my master’s thesis with the clinical trials team. My research explores interval censored methods using a simulation that replicates Trials within Cohorts (TwiCs), with the potential to extend the analysis to real cancer patient data. I am excited to see what the results reveal and to keep growing my understanding of statistics within the medical field. The project is expected to be completed in May 2027. For readers unfamiliar with TwiCs, see Figure 1 for a visual of such a trial.\n\n\n\n\n\n\n\nFigure 1: Trials within Cohorts (TwiCs) design\n\n\n\n\n\n\nFinal Year Bachlors Thesis | Glasgow University | 2025 | First-Class Grade\nI analysed real-world SEPA wastewater data to investigate flow and ammonia measurements in the context of wastewater-based epidemiology, independently sourcing and integrating supplementary rainfall data to strengthen the statistical analysis. Using R and Excel, I identified trends and patterns in the data and produced a comprehensive final report and presentation. Through this project, I developed strong skills in statistical analysis, critical thinking, and scientific communication, along with applied insight into medical and environmental statistics."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
