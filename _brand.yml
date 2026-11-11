@@ -1,0 +1,19 @@
+color:
+  palette:
+    pink: "#eac7db"
+    darkpink: "#ed128c"
+    grey: "#999999"
+    orange: "#ebcfc4"
+    green: "#d3ebc4"
+    purple: "#c5c4eb"
+    darkpurple: "#36175E"
+    lightpurple: "#f1ecfb"  
+  foreground: darkpurple
+  background: lightpurple
+  primary: darkpink
+  secondary: darkpink
+  tertiary: darkpink
+
+
+
+      

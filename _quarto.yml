@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  navbar:
+    background: primary
+    search: true
+    left:
+        - href: index.qmd
+          text: Megan McEntee
+        - href: about_me.qmd
+          text: About Me
+        - href: education.qmd
+          text: Education
+        - href: work.qmd
+          text: Work
+        - href: projects.qmd
+          text: Projects
+        
+format:
+  html:
+    grid:
+      body-width: 900px
+      margin-width: 300px
+    theme:
+      - Journal
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual

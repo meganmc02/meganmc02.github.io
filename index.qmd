@@ -1,0 +1,17 @@
+---
+title: "Megan McEntee"
+page-layout: full
+---
+::: {style="text-align: center;"}
+
+![](IMG_3227.jpeg){.circle-img fig-alt="photo" width="30%" fig-align="center"}
+
+Master's student in Methodology and Statistics in Behavioural, Biomedical and Social Sciences at Utrecht University. Welcome to my website, where you can find out more about me, my work and my studies!
+
+:::
+***Contacts:***
+
+-   [Linkedin](https://www.linkedin.com/in/megan-mcentee-bb5802326/)
+
+-   [Email](mailto:meganmmcentee@gmail.com)
+

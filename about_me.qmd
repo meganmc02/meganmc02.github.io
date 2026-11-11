@@ -1,0 +1,16 @@
+---
+title: "A Little Bit More About Me..."
+page-layout: full
+---
+
+::::: {.columns style="display: flex; align-items: center;"}
+::: {.column width="40%"}
+![](aboutmeimage.jpg){fig-alt="A photo of me" width="60%" fig-align="center"}
+:::
+
+::: {.column width="60%"}
+Hi, I’m Megan, and I love all things statistics. My journey began in high school, where I took an introductory statistics class and was introduced to the famous p-value. Since then, I have moved countries twice to pursue my studies in statistics, and I continue to be haunted by p-values. My main interest is biostatistics, so I feel very lucky to be completing an internship at UMC Utrecht, where I am writing my thesis for my master’s in Methodology and Statistics at Utrecht University. I am passionate about using data, methodology, and statistics to drive change and support those working in the medical field.
+
+Outside of my studies, I enjoy music, films, and baking. On weekends, you will often find me at a concert (or even working a festival) and at the cinema, making the most of my Cineville pass!
+:::
+:::::
